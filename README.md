@@ -11,7 +11,7 @@ This project is a **Concierge Agent** for the Agents Intensive Capstone Project,
 | **Project** | **The Smart Recipe Planner** |
 | **Track** | **Concierge Agents** |
 | **Tech Stack** | Python, Google Gemini API (`google-genai` SDK), Kaggle Notebooks |
-| **Model** | `models/gemini-1.5-flash-latest` |
+| **Model** | `models/gemini-2.5-flash-lite` |
 | **Key Features** | Sequential Agents, Built-in Tools (`GoogleSearch`), Session Management |
 
 ### 🎯 The Problem
